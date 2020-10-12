@@ -4,7 +4,8 @@ Automated Arduino Watering System
 This is simple approach to an automated watering system using an Arduino Pro Mini, three individual water pumps and recycled potentiometers. 
 
 ## The overall system
-The system is based around an Arduino Pro Mini which every 12 hours checks the moisture of the attached plants and waters them for a set amount of time based on three control knobs. This ensures that if the plant has not consumed enough water during the 12 hour break, the pumps will not fire. 
+The system is based around an Arduino Pro Mini which every 12 hours checks the moisture of the attached plants and waters them for a set amount of time based on three control knobs. This ensures that if the plant has not consumed enough water during the 12 hour break, the pumps will not fire.
+
 ![An illustration of the overall system](./autoarduinowaterer_version2.png)
 
 ## Power consumption
